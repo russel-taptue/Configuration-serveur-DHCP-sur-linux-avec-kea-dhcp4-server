@@ -52,6 +52,7 @@ Le schéma ci-dessous illustre l'architecture du réseau utilisé pour ce projet
 
 
 Vous avez un exemple fonctionnel de fichier kea-dhcp4.conf dans ce depot
+
 ---
 
 ## ⚙️ Étapes de configuration
